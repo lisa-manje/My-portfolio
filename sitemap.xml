@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <url>
-    <loc>https://lisa-manje.github.io/My-portfolio/</loc>
-    <lastmod>2026-07-04</lastmod>
+<url>
+    <loc>https://lisa-manje.github.io/My-portfolio/index.html</loc>
     <priority>1.0</priority>
-  </url>
+</url>
 
-  <url>
+<url>
     <loc>https://lisa-manje.github.io/My-portfolio/about.html</loc>
     <priority>0.8</priority>
-  </url>
+</url>
 
-  <url>
-    <loc>https://lisa-manje.github.io/My-portfolio/contacts.html</loc>
+<url>
+    <loc>https://lisa-manje.github.io/My-portfolio/contact.html</loc>
     <priority>0.8</priority>
-  </url>
+</url>
+
+<url>
+    <loc>https://lisa-manje.github.io/My-portfolio/skills.html</loc>
+    <priority>0.8</priority>
+</url>
 
 </urlset>
